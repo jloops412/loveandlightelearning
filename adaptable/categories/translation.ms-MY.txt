@@ -1,9 +1,0 @@
-﻿business_process	Proses Perniagaan
-process_tutorials	Tutorial Proses
-guided_tours	Lawatan Berpandu
-training_courses	Kos Latihan
-user_assistance	Pembantu Pengguna
-compliance	Komplians
-tips_tricks	Petua & Teknik
-faq	FAQ
-misc	Pelbagai
